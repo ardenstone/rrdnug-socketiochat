@@ -1,0 +1,22 @@
+{
+  "name": "socketiochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index",
+  "typings": "typings.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arden Stone",
+  "license": "MIT",
+  "dependencies": {
+    "@types/socket.io-client": "^1.4.32",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/socket.io": "^1.4.36",
+    "typescript": "^2.9.2"
+  }
+}
